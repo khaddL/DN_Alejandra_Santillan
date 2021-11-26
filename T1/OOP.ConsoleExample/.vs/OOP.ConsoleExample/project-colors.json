@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38fa749b-8580-4151-a805-12c48ca28b02": {
+      "ProjectGuid": "38fa749b-8580-4151-a805-12c48ca28b02",
+      "DisplayName": "OOP.ConsoleExample",
+      "ColorIndex": 0
+    },
+    "0fd430b7-c275-4e32-a68f-2d9f8c342f75": {
+      "ProjectGuid": "0fd430b7-c275-4e32-a68f-2d9f8c342f75",
+      "DisplayName": "AudioManager",
+      "ColorIndex": 1
+    },
+    "040f25ab-3691-4d49-9c1d-c9f844f4262b": {
+      "ProjectGuid": "040f25ab-3691-4d49-9c1d-c9f844f4262b",
+      "DisplayName": "AudioManager",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

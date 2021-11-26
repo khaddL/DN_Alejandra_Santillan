@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc83b808-99d5-4689-b295-5d4cb47a2c16": {
+      "ProjectGuid": "dc83b808-99d5-4689-b295-5d4cb47a2c16",
+      "DisplayName": "DN_1.1_Jorge_Serna_v1.0",
+      "ColorIndex": 0
+    },
+    "5b7a804f-3d6a-4e17-8b1f-d34988ce9827": {
+      "ProjectGuid": "5b7a804f-3d6a-4e17-8b1f-d34988ce9827",
+      "DisplayName": "AudioManager",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
