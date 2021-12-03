@@ -1,0 +1,42 @@
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\DN_1.2_Alejandra_Santillan_v1.0.exe.config
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\DN_1.2_Alejandra_Santillan_v1.0.exe
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\DN_1.2_Alejandra_Santillan_v1.0.pdb
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.csproj.AssemblyReference.cache
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.exe
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.pdb
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Resources\bus.mp3
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Resources\car.mp3
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Resources\train.mp3
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\AudioManager.dll
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.dll
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.WinMM.dll
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.Core.dll
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.Wasapi.dll
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\AudioManager.pdb
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.xml
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ale-s\Source\Repos\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.csproj.CopyComplete
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Resources\bus.mp3
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Resources\car.mp3
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Resources\train.mp3
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\DN_1.2_Alejandra_Santillan_v1.0.exe.config
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\DN_1.2_Alejandra_Santillan_v1.0.exe
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\DN_1.2_Alejandra_Santillan_v1.0.pdb
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\AudioManager.dll
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.dll
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.WinMM.dll
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.Core.dll
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.Wasapi.dll
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\AudioManager.pdb
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\NAudio.xml
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.csproj.AssemblyReference.cache
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.csproj.CopyComplete
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.exe
+C:\Users\ale-s\Desktop\New folder\DN_1.2_Alejandra_Santillan_v1.0\DN_1.2_Alejandra_Santillan_v1.0\obj\Debug\DN_1.2_Alejandra_Santillan_v1.0.pdb

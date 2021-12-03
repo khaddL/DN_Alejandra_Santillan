@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28e2803d-5d58-46f2-a464-87341c3b1bb5": {
+      "ProjectGuid": "28e2803d-5d58-46f2-a464-87341c3b1bb5",
+      "DisplayName": "DN_1.2_Alejandra_Santillan_v1.0",
+      "ColorIndex": 0
+    },
+    "9200b5cf-d562-415b-9e3f-9259daadc352": {
+      "ProjectGuid": "9200b5cf-d562-415b-9e3f-9259daadc352",
+      "DisplayName": "AudioManager",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
