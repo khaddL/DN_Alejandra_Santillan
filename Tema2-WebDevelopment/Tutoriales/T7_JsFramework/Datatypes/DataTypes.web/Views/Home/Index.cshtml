@@ -1,0 +1,211 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<html>
+    <head>
+        <title>JavaScript Datatypes</title>
+
+        <style>
+            button{
+                    padding:10px;
+            
+            }
+
+            .redButton {
+                        background: #FD8473;   
+            }
+
+            .greenButton {
+                        background: #ACEACC;   
+            }
+
+          
+            /*bideo style uwu*/
+              * {
+      margin: 0; padding: 0;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    #container {
+      overflow: hidden;
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+    }
+
+    #background_video {
+      position: absolute;
+
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+
+      object-fit: cover;
+      height: 100%; width: 100%;
+    }
+
+    #video_cover {
+      position: absolute;
+
+      width: 100%; height: 100%;
+
+      background: url('/lib/bideo/video_cover.jpeg') no-repeat;
+      background-size: cover;
+      background-position: center;
+    }
+
+    #video_controls {
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, 0);
+    }
+
+    #play img {
+      width: 100px;
+    }
+    #pause img {
+      width: 90px;
+    }
+    #pause {
+      display: none;
+    }
+
+    @@media (min-width: 768px) {
+      #video_controls {
+        display: none;
+      }
+    }
+
+    /* Demo page specific styles */
+
+    body {
+      text-align: center;
+      font-family: 'proxima-nova', Helvetica;
+    }
+
+    #container {
+      height: 100%;
+    }
+
+    #overlay {
+      position: absolute;
+      top: 0; right: 0; left: 0; bottom: 0;
+      background: rgba(0,0,0,0.5);
+    }
+
+    #main_content {
+      z-index: 2;
+      position: relative;
+      display: inline-block;
+
+      /* Vertical center */
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    #main_content h1 {
+      text-transform: uppercase;
+      font-weight: 600;
+      font-family: 'proxima-nova-condensed', Helvetica;
+      color: #fff;
+      font-size: 35px;
+    }
+
+    #main_content .sub_head {
+      color: rgba(255,255,255,0.5);
+      font-size: 18px;
+    }
+
+    #main_content .info {
+      color: rgba(255,255,255,0.5);
+      font-size: 12px;
+      margin-top: 10px;
+    }
+
+    #links {
+      margin-top: 50px;
+    }
+
+    #links a {
+      border: 2px solid rgba(255,255,255,0.20);
+      border-radius: 61px;
+      font-size: 12px;
+      color: #FFFFFF;
+      letter-spacing: 1px;
+      text-decoration: none;
+      text-transform: uppercase;
+      padding: 10px 25px;
+      display: inline-block;
+      margin-right: 15px;
+    }
+
+    #footer {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+    }
+    #footer a {
+      color: rgba(255,255,255,0.5);
+      text-decoration: none;
+      margin: 10px;
+      font-size: 12px;
+    }
+    #footer a:first-child {
+      float: left;
+    }
+    #footer a:last-child {
+      float: right;
+    }
+
+
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <div id="container">
+
+            <video id="background_video" loop muted></video>
+            <div id="video_cover"></div>
+            <div id="overlay"></div>
+            <section id="main_content">
+
+        <button id= "button1" name="test">Toast uwu!</button>
+        <button class= "btn greenButton" name="test2">Click Me uwu!</button>
+        <button name= "test3">Click Me uwu!</button>
+        <button class= "btn greenButton" name="test4">Click Me uwu!</button>
+        <button name= "test5">Click Me uwu!</button>
+        <button class= "btn greenButton" name="test6">Click Me uwu!</button>
+
+        <table id= "simpleTable">
+            <thead>
+                <tr>
+                    <td>
+                        Button Name
+                    </td>
+                    <td>
+                        Clicked On
+                    </td>
+                </tr>
+                
+            </thead>
+
+        </table>
+
+            </section>
+        </div>
+
+
+         <script src="~/lib/bideo/bideo.js"></script>
+         <script src="~/lib/moment.js"></script>
+         <script src="~/lib/bideo/toast.min.js"></script>
+         <script src="~/dataTypes.js"></script>
+    </body>
+</html>
