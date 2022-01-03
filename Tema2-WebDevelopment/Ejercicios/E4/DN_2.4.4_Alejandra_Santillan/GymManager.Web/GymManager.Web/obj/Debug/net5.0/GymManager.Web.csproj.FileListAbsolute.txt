@@ -178,3 +178,37 @@ C:\Users\ale-s\Desktop\GymManager.Web\GymManager.Web\obj\Debug\net5.0\ref\GymMan
 C:\Users\ale-s\Desktop\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.pdb
 C:\Users\ale-s\Desktop\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.genruntimeconfig.cache
 C:\Users\ale-s\Desktop\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CopyComplete
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\appsettings.Development.json
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\appsettings.json
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.exe
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.deps.json
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.runtimeconfig.json
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.runtimeconfig.dev.json
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.dll
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\ref\GymManager.Web.dll
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.pdb
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.Views.dll
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.Views.pdb
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.AssemblyReference.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.AssemblyInfoInputs.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.AssemblyInfo.cs
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CoreCompileInputs.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.MvcApplicationPartsAssemblyInfo.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorAssemblyInfo.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorAssemblyInfo.cs
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\scopedcss\bundle\GymManager.Web.styles.css
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\staticwebassets\GymManager.Web.StaticWebAssets.Manifest.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.TagHelpers.input.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.TagHelpers.output.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorCoreGenerate.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Attendance\MemberIn.cshtml.g.cs
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Attendance\MemberOut.cshtml.g.cs
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorTargetAssemblyInfo.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorTargetAssemblyInfo.cs
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.Views.pdb
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.dll
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\ref\GymManager.Web.dll
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.pdb
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.genruntimeconfig.cache
+Y:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Ejercicios\E4\DN_2.4.4_Alejandra_Santillan\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CopyComplete

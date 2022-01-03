@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3aqODksbzjvOjoqKtd1cnSzCZGVIQPgLlFvgQFPJ1MWgMN5PNWUKxRjFzKT1KImnHQvwckwkKeMZq7rxNQrl5Q==",
+  "dgSpecHash": "I4IZhnung600sRZ8oE4huJzkMTHP2vZd1Fez4fN23ikcp49L4pzqjBuwakou6tgpIFZUTunzMUxBzqCPUJIp9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ale-s\\Desktop\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+  "projectFilePath": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Ejercicios\\E4\\DN_2.4.4_Alejandra_Santillan\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ale-s\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ale-s\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",

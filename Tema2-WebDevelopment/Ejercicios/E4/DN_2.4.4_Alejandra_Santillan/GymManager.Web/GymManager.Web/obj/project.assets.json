@@ -554,11 +554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ale-s\\Desktop\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+      "projectUniqueName": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Ejercicios\\E4\\DN_2.4.4_Alejandra_Santillan\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
       "projectName": "GymManager.Web",
-      "projectPath": "C:\\Users\\ale-s\\Desktop\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+      "projectPath": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Ejercicios\\E4\\DN_2.4.4_Alejandra_Santillan\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
       "packagesPath": "C:\\Users\\ale-s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ale-s\\Desktop\\GymManager.Web\\GymManager.Web\\obj\\",
+      "outputPath": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Ejercicios\\E4\\DN_2.4.4_Alejandra_Santillan\\GymManager.Web\\GymManager.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ale-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
