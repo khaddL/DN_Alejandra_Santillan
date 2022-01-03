@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\Datatypes.csproj": {}
+    "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\Datatypes.csproj": {}
   },
   "projects": {
-    "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\Datatypes.csproj": {
+    "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\Datatypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\Datatypes.csproj",
+        "projectUniqueName": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\Datatypes.csproj",
         "projectName": "Datatypes",
-        "projectPath": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\Datatypes.csproj",
+        "projectPath": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\Datatypes.csproj",
         "packagesPath": "C:\\Users\\ale-s\\.nuget\\packages\\",
-        "outputPath": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\obj\\",
+        "outputPath": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T6_DOM\\Datatypes\\Datatypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ale-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

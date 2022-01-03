@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj": {}
+    "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj": {}
   },
   "projects": {
-    "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj": {
+    "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj",
+        "projectUniqueName": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj",
         "projectName": "DataTypes.web",
-        "projectPath": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj",
+        "projectPath": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj",
         "packagesPath": "C:\\Users\\ale-s\\.nuget\\packages\\",
-        "outputPath": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\obj\\",
+        "outputPath": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ale-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

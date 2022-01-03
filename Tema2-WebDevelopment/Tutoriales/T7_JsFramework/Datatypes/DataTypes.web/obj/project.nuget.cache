@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/lddLXkD9gk7Tv5rLfMj6LHyrLLNEDYrdm/LBqaxuy4DF2mWFq3p5GBSsyp/fQxi4QZ+L0n92aigLKItWVNlzw==",
+  "dgSpecHash": "I2CxMVl932DJJSU0hHzvkR476a/oWSIOhghA6ui9nFXJ27EmKn5hqsvzc7Zde/PxQc3U5Fv/NFSpCey5+i61ew==",
   "success": true,
-  "projectFilePath": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj",
+  "projectFilePath": "Y:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Tutoriales\\T7_JsFramework\\Datatypes\\DataTypes.web\\DataTypes.web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ale-s\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.12\\microsoft.aspnetcore.mvc.razor.extensions.5.0.12.nupkg.sha512",
     "C:\\Users\\ale-s\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.12\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.12.nupkg.sha512",
