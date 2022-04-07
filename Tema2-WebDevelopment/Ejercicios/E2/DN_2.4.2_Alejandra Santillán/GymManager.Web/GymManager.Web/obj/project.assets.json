@@ -549,19 +549,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ale-s\\.nuget\\packages\\": {}
+    "C:\\Users\\aly-s\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Ejercicios\\E2\\DN_2.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+      "projectUniqueName": "D:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Ejercicios\\E2\\DN_2.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
       "projectName": "GymManager.Web",
-      "projectPath": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Ejercicios\\E2\\DN_2.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
-      "packagesPath": "C:\\Users\\ale-s\\.nuget\\packages\\",
-      "outputPath": "Y:\\Mis Proyectos\\Punto Singular\\Web\\Ejercicios\\E2\\DN_2.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Web\\obj\\",
+      "projectPath": "D:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Ejercicios\\E2\\DN_2.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+      "packagesPath": "C:\\Users\\aly-s\\.nuget\\packages\\",
+      "outputPath": "D:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema2-WebDevelopment\\Ejercicios\\E2\\DN_2.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ale-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aly-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -610,7 +610,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -53,3 +53,36 @@ Y:\Mis Proyectos\Punto Singular\Web\Tutoriales\T4_MVC Pattern\GymManager.Web\Gym
 Y:\Mis Proyectos\Punto Singular\Web\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.genruntimeconfig.cache
 Y:\Mis Proyectos\Punto Singular\Web\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CopyComplete
 Y:\Mis Proyectos\Punto Singular\Web\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Members\Index.cshtml.g.cs
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\appsettings.json
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.exe
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.deps.json
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.runtimeconfig.json
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.runtimeconfig.dev.json
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.pdb
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.Views.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.Views.pdb
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.AssemblyReference.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.AssemblyInfoInputs.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.AssemblyInfo.cs
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorAssemblyInfo.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorAssemblyInfo.cs
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\scopedcss\bundle\GymManager.Web.styles.css
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\staticwebassets\GymManager.Web.StaticWebAssets.Manifest.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.TagHelpers.input.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.TagHelpers.output.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorCoreGenerate.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Members\Index.cshtml.g.cs
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorTargetAssemblyInfo.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorTargetAssemblyInfo.cs
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.Views.pdb
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\refint\GymManager.Web.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.pdb
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.genruntimeconfig.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\ref\GymManager.Web.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema2-WebDevelopment\Tutoriales\T4_MVC Pattern\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CopyComplete

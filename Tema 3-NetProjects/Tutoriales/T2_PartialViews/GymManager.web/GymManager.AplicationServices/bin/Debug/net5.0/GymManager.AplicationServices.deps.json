@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GymManager.AplicationServices/1.0.0": {
+        "dependencies": {
+          "GymManager.Core": "1.0.0"
+        },
+        "runtime": {
+          "GymManager.AplicationServices.dll": {}
+        }
+      },
+      "GymManager.Core/1.0.0": {
+        "runtime": {
+          "GymManager.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GymManager.AplicationServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymManager.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

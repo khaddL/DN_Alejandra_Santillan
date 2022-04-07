@@ -1,0 +1,12 @@
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\bin\Debug\net5.0\GymManager.Core.deps.json
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\obj\Debug\net5.0\refint\GymManager.Core.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.Core\obj\Debug\net5.0\ref\GymManager.Core.dll

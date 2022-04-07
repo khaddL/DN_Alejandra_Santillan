@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "GymManager.AplicationServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "GymManager.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GymManager.AplicationServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GymManager.AplicationServices.dll": {}
+        }
+      },
+      "GymManager.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/GymManager.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GymManager.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GymManager.AplicationServices/1.0.0": {
+      "type": "project",
+      "path": "../GymManager.AplicationServices/GymManager.AplicationServices.csproj",
+      "msbuildProject": "../GymManager.AplicationServices/GymManager.AplicationServices.csproj"
+    },
+    "GymManager.Core/1.0.0": {
+      "type": "project",
+      "path": "../GymManager.Core/GymManager.Core.csproj",
+      "msbuildProject": "../GymManager.Core/GymManager.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "GymManager.AplicationServices >= 1.0.0",
+      "GymManager.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aly-s\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aly-s\\Desktop\\T2_PartialViews\\GymManager.web\\GymManager.web\\GymManager.web.csproj",
+      "projectName": "GymManager.web",
+      "projectPath": "C:\\Users\\aly-s\\Desktop\\T2_PartialViews\\GymManager.web\\GymManager.web\\GymManager.web.csproj",
+      "packagesPath": "C:\\Users\\aly-s\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aly-s\\Desktop\\T2_PartialViews\\GymManager.web\\GymManager.web\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aly-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\aly-s\\Desktop\\T2_PartialViews\\GymManager.web\\GymManager.AplicationServices\\GymManager.AplicationServices.csproj": {
+              "projectPath": "C:\\Users\\aly-s\\Desktop\\T2_PartialViews\\GymManager.web\\GymManager.AplicationServices\\GymManager.AplicationServices.csproj"
+            },
+            "C:\\Users\\aly-s\\Desktop\\T2_PartialViews\\GymManager.web\\GymManager.Core\\GymManager.Core.csproj": {
+              "projectPath": "C:\\Users\\aly-s\\Desktop\\T2_PartialViews\\GymManager.web\\GymManager.Core\\GymManager.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

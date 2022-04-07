@@ -1,0 +1,110 @@
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\appsettings.json
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.exe
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.deps.json
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.runtimeconfig.json
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.runtimeconfig.dev.json
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.dll
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.pdb
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.csproj.AssemblyReference.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.AssemblyInfoInputs.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.AssemblyInfo.cs
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.csproj.CoreCompileInputs.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\scopedcss\bundle\GymManager.web.styles.css
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\staticwebassets\GymManager.web.StaticWebAssets.Manifest.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorTargetAssemblyInfo.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.dll
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\refint\GymManager.web.dll
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.pdb
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.genruntimeconfig.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\ref\GymManager.web.dll
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.Views.dll
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.Views.pdb
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorAssemblyInfo.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorAssemblyInfo.cs
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.TagHelpers.input.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.TagHelpers.output.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorCoreGenerate.cache
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Members\Index.cshtml.g.cs
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorTargetAssemblyInfo.cs
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.Views.pdb
+C:\Users\aly-s\source\repos\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.csproj.CopyComplete
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\appsettings.json
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.exe
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.deps.json
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.runtimeconfig.json
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.runtimeconfig.dev.json
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.dll
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.pdb
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.Views.dll
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.Views.pdb
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.csproj.AssemblyReference.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.AssemblyInfoInputs.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.AssemblyInfo.cs
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.csproj.CoreCompileInputs.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorAssemblyInfo.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorAssemblyInfo.cs
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\scopedcss\bundle\GymManager.web.styles.css
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\staticwebassets\GymManager.web.StaticWebAssets.Manifest.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.TagHelpers.input.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.TagHelpers.output.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorCoreGenerate.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Members\Index.cshtml.g.cs
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Members\Test.cshtml.g.cs
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorTargetAssemblyInfo.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorTargetAssemblyInfo.cs
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.Views.pdb
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.dll
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\refint\GymManager.web.dll
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.pdb
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.genruntimeconfig.cache
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\ref\GymManager.web.dll
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.csproj.CopyComplete
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aly-s\Desktop\T1 Layouts\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\appsettings.json
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.exe
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.deps.json
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.runtimeconfig.json
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.runtimeconfig.dev.json
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.Views.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.web.Views.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.csproj.AssemblyReference.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.AssemblyInfoInputs.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.AssemblyInfo.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.csproj.CoreCompileInputs.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorAssemblyInfo.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorAssemblyInfo.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\scopedcss\bundle\GymManager.web.styles.css
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\staticwebassets\GymManager.web.StaticWebAssets.Manifest.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.TagHelpers.input.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.TagHelpers.output.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorCoreGenerate.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Members\Index.cshtml.g.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Members\Test.cshtml.g.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\Razor\Views\Shared\_MemberList.cshtml.g.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorTargetAssemblyInfo.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.RazorTargetAssemblyInfo.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.Views.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\refint\GymManager.web.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.genruntimeconfig.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\ref\GymManager.web.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\obj\Debug\net5.0\GymManager.web.csproj.CopyComplete
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.AplicationServices.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.AplicationServices.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.web\bin\Debug\net5.0\GymManager.Core.pdb
