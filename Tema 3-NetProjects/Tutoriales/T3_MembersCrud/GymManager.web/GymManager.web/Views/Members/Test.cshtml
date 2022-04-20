@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+     Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@section Head{
+
+    <style>
+       h1.mt-5{
+            color:red;
+       }
+
+    </style>
+}
+
+@section Scripts{
+
+     <script>
+     
+         function ShowMessage(){
+            alert("This is a Test uwu");
+         }
+         setTimeout(ShowMessage, 3000);
+     </script>
+
+}
+
+        <div class="container">
+            <h1 class="mt-5">A Second View</h1>
+
+            <img src=~/Images/cosa1.jpeg />
+
+           </div>
+    

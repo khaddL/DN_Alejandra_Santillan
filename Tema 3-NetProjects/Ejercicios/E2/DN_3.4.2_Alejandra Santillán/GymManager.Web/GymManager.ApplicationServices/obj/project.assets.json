@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "GymManager.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/GymManager.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GymManager.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GymManager.Core/1.0.0": {
+      "type": "project",
+      "path": "../GymManager.Core/GymManager.Core.csproj",
+      "msbuildProject": "../GymManager.Core/GymManager.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "GymManager.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aly-s\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
+      "projectName": "GymManager.ApplicationServices",
+      "projectPath": "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
+      "packagesPath": "C:\\Users\\aly-s\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.ApplicationServices\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aly-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+              "projectPath": "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

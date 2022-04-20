@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Model\**" />
+    <Content Remove="Model\**" />
+    <EmbeddedResource Remove="Model\**" />
+    <None Remove="Model\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GymManager.ApplicationServices\GymManager.ApplicationServices.csproj" />
+    <ProjectReference Include="..\GymManager.Core\GymManager.Core.csproj" />
+  </ItemGroup>
+
+</Project>

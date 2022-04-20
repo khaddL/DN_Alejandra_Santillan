@@ -1,0 +1,5 @@
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.csproj.CoreCompileInputs.cache

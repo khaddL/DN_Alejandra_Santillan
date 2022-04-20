@@ -1,0 +1,30 @@
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.AssemblyReference.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.AssemblyInfoInputs.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.AssemblyInfo.cs
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.deps.json
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.CopyComplete
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\refint\GymManager.AplicationServices.dll
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.pdb
+C:\Users\aly-s\Desktop\T2_PartialViews\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\ref\GymManager.AplicationServices.dll
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.deps.json
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.dll
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.pdb
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.AssemblyReference.cache
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.AssemblyInfoInputs.cache
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.AssemblyInfo.cs
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.CopyComplete
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.dll
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\refint\GymManager.AplicationServices.dll
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.pdb
+D:\Mis Proyectos\Punto Singular\NetProjects\Tutoriales\T3_MembersCrud\GymManager.web\GymManager.AplicationServices\obj\Debug\net5.0\ref\GymManager.AplicationServices.dll

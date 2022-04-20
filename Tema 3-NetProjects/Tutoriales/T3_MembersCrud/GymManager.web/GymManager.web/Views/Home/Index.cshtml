@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<GymManager.Core.Members.Member>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+<div class= "container">
+    <h1>Welcome to Gym Manager</h1>
+
+    @await Html.PartialAsync("~/Views/Shared/_MemberList.cshtml", Model)
+</div>
+

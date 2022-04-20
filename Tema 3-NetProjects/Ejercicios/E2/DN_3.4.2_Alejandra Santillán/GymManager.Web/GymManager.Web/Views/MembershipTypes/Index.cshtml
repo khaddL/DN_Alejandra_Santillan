@@ -1,0 +1,22 @@
+﻿@model GymManager.Web.Models.MembershipListViewModel
+
+
+@{
+    
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section HeaderRight {
+    <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+    </form>
+}
+
+
+<div class = "container">
+    <h1>Welcome to GymManager</h1>
+    @await Html.PartialAsync("~/Views/Shared/_MembershipTypes.cshtml", Model.Type)
+
+
+</div>

@@ -1,0 +1,43 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model GymManager.web.Models.MemberListViewModel
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+ @section HeaderRight{
+     <form class="d-flex">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+ 
+ 
+ }
+
+      <!-- Begin page content -->
+ 
+        <div class="container">
+            <h1 class="mt-5">Members</h1>
+            
+            <div class="row">
+
+                <div class="col-6"><p>New Members of Week: @Model.NewMembersCount</p></div>
+                <div class="col-3"></div>
+                <div class="col-1"></div>
+                <div class="col-2">
+                    <p><a asp-action="Create" class="btn btn-outline-success">Add Member</a></p>
+                </div>
+            </div>
+            
+            
+
+            @await Html.PartialAsync("~/Views/Shared/_MemberList.cshtml", Model.Members)
+
+            
+        </div>
+
+    
