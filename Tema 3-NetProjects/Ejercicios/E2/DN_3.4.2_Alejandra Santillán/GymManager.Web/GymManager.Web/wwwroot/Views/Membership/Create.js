@@ -1,0 +1,5 @@
+﻿(function () {
+
+    $("#Duration").Select2();
+
+}());

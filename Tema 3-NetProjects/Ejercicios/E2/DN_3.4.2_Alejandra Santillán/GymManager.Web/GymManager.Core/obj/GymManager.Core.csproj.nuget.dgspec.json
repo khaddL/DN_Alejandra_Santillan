@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {}
+    "C:\\Users\\aly-s\\Desktop\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+    "C:\\Users\\aly-s\\Desktop\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectUniqueName": "C:\\Users\\aly-s\\Desktop\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
         "projectName": "GymManager.Core",
-        "projectPath": "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectPath": "C:\\Users\\aly-s\\Desktop\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
         "packagesPath": "C:\\Users\\aly-s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aly-s\\Desktop\\E1\\DN_3.4.1_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\obj\\",
+        "outputPath": "C:\\Users\\aly-s\\Desktop\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aly-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -11,17 +11,27 @@
       <th scope="col">Cost</th>
       <th scope="col">Created On</th>
       <th scope="col">Duration</th>
+      <th scope="col"></th>
     </tr>
   </thead>
   <tbody>
-      @foreach(var types in Model)
+      
+        @foreach(var types in Model)
         {
             
             <tr>
               <th scope="row">@types.Name</th>
-              <td>@types.Cost</td>
+              <td>$ @types.Cost dlls</td>
               <td>@types.CreatedOn</td>
-              <td>@types.Duration</td>
+              <td>@types.Duration Meses</td>
+             
+              <td>
+                  <a asp-action="Edit" class="btn btn-outline-info" asp-route-Membership="@types.Id">Edit</a>
+              </td>
+              <td>
+                  <a asp-action="Delete" class="btn btn-outline-danger" asp-route-Membership="@types.Id">Delete</a>
+              </td>
+
             </tr>
 
         }

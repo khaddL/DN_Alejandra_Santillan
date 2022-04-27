@@ -6,6 +6,15 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+ <style>
+  
+    .container h2 {
+            text-align:center;
+            font-family: 'Segoe Script';
+            }
+  
+  </style>
+
 @section HeaderRight {
     <form class="d-flex">
           <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -14,8 +23,17 @@
 }
 
 
+
 <div class = "container">
-    <h1>Welcome to GymManager</h1>
+    <h2 class="mt-3">Membership Types</h2>
+
+    <div class="row">
+         <div class="col-6"></div>
+        <div class="col-6"><a asp-action="Create" class="btn btn-outline-success float-end">Add Membership</a></div>
+       
+
+    </div>
+
     @await Html.PartialAsync("~/Views/Shared/_MembershipTypes.cshtml", Model.Type)
 
 

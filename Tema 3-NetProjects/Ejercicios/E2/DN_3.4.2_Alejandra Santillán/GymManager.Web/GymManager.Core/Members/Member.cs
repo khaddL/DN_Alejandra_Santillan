@@ -20,3 +20,5 @@ namespace GymManager.Core.Members
 
         public bool AllowsNewsLetter { get; set; }
 
+    }
+}
