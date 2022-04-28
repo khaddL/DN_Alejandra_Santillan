@@ -15,3 +15,15 @@ C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManage
 C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\refint\GymManager.Core.dll
 C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.pdb
 C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\ref\GymManager.Core.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\bin\Debug\net5.0\GymManager.Core.deps.json
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\bin\Debug\net5.0\GymManager.Core.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\bin\Debug\net5.0\GymManager.Core.pdb
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.csproj.AssemblyReference.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.AssemblyInfoInputs.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.AssemblyInfo.cs
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\refint\GymManager.Core.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\GymManager.Core.pdb
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.Core\obj\Debug\net5.0\ref\GymManager.Core.dll

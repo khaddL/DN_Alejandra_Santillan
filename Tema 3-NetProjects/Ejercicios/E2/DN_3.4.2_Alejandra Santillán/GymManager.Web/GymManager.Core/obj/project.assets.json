@@ -3877,11 +3877,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aly-s\\Desktop\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+      "projectUniqueName": "D:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema 3-NetProjects\\Ejercicios\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
       "projectName": "GymManager.Core",
-      "projectPath": "C:\\Users\\aly-s\\Desktop\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+      "projectPath": "D:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema 3-NetProjects\\Ejercicios\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
       "packagesPath": "C:\\Users\\aly-s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aly-s\\Desktop\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\obj\\",
+      "outputPath": "D:\\Mis Proyectos\\Github\\DN_Alejandra_Santillan\\Tema 3-NetProjects\\Ejercicios\\E2\\DN_3.4.2_Alejandra Santillán\\GymManager.Web\\GymManager.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aly-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
