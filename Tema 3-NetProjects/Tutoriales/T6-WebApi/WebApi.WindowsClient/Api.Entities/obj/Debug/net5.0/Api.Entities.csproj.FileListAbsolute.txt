@@ -1,0 +1,12 @@
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\bin\Debug\net5.0\Api.Entities.deps.json
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\bin\Debug\net5.0\Api.Entities.dll
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\bin\Debug\net5.0\Api.Entities.pdb
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.csproj.AssemblyReference.cache
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.AssemblyInfoInputs.cache
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.AssemblyInfo.cs
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.dll
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\refint\Api.Entities.dll
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.pdb
+C:\Users\aly-s\Desktop\T6-WebApi\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\ref\Api.Entities.dll
