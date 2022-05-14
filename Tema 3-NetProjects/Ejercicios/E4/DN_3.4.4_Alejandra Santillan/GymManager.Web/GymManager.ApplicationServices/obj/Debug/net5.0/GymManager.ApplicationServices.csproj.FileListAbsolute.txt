@@ -1,0 +1,35 @@
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\aly-s\Desktop\E1\DN_3.4.1_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.deps.json
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.dll
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.pdb
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.dll
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\refint\GymManager.ApplicationServices.dll
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.pdb
+C:\Users\aly-s\Desktop\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\ref\GymManager.ApplicationServices.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.deps.json
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfo.cs
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CopyComplete
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\refint\GymManager.ApplicationServices.dll
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\Mis Proyectos\Github\DN_Alejandra_Santillan\Tema 3-NetProjects\Ejercicios\E2\DN_3.4.2_Alejandra Santillán\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\ref\GymManager.ApplicationServices.dll

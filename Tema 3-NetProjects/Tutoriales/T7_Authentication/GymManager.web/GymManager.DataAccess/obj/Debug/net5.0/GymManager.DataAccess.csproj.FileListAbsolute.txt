@@ -1,0 +1,15 @@
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\bin\Debug\net5.0\GymManager.DataAccess.deps.json
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\bin\Debug\net5.0\GymManager.DataAccess.runtimeconfig.json
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\bin\Debug\net5.0\GymManager.DataAccess.runtimeconfig.dev.json
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\bin\Debug\net5.0\GymManager.DataAccess.dll
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\bin\Debug\net5.0\GymManager.DataAccess.pdb
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\GymManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\GymManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\GymManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\GymManager.DataAccess.AssemblyInfo.cs
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\GymManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\GymManager.DataAccess.dll
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\refint\GymManager.DataAccess.dll
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\GymManager.DataAccess.pdb
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\GymManager.DataAccess.genruntimeconfig.cache
+C:\Users\aly-s\Desktop\T5_DynamicMenu\GymManager.web\GymManager.DataAccess\obj\Debug\net5.0\ref\GymManager.DataAccess.dll

@@ -1,0 +1,29 @@
+﻿@using GymManager.Web.Models
+@model GymManager.Web.Models.MenuViewModel
+
+@{
+    var orderedMenuItems = Model.Menu.OrderBy(x => x.Order);
+}
+
+
+<ul class="navbar-nav me-auto mb-2 mb-md-0">
+
+
+    @foreach(var menuItem in orderedMenuItems)
+    {
+        @await Html.PartialAsync("~/Views/Shared/Components/AppMenu/_UserMenuItems.cshtml", new UserMenuItemViewModel
+        {
+            MenuItem = menuItem,
+            RootLevel = true,
+            CurrentPageName = Model.CurrentPageName
+
+
+        })
+    
+
+    }
+    
+    
+
+    
+</ul>
