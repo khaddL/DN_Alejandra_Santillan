@@ -1,0 +1,1 @@
+call insertSale('DF8400245R',3);
