@@ -1,0 +1,12 @@
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\DataAccess.Example.Core.deps.json
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\DataAccess.Example.Core.dll
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\DataAccess.Example.Core.pdb
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.csproj.AssemblyReference.cache
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.AssemblyInfoInputs.cache
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.AssemblyInfo.cs
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.dll
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\refint\DataAccess.Example.Core.dll
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.pdb
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T3_BaseDeDatosEntityFramework\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\ref\DataAccess.Example.Core.dll
