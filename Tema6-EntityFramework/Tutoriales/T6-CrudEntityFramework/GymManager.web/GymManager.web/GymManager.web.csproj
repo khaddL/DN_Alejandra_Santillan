@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MySqlConnector" Version="2.1.11" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="5.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GymManager.AplicationServices\GymManager.AplicationServices.csproj" />
+    <ProjectReference Include="..\GymManager.Core\GymManager.Core.csproj" />
+    <ProjectReference Include="..\GymManager.DataAccess\GymManager.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,95 @@
+﻿@model GymManager.Core.Members.Member
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Head{
+
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.min.css" rel="stylesheet"/>
+    <link href="~/lib/jqueryui/jquery-ui.structure.min.css" rel="stylesheet"/>
+    <link href="~/lib/jqueryui/jquery-ui.theme.min.css" rel="stylesheet"/>
+}
+
+@section Scripts{
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="~/lib/jqueryui/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+
+    <script src="~/Views/Members/Create.js"></script>
+}
+
+<div class = "container">
+    
+
+    <h3 class="mt-5">Member Registration</h3>
+
+    <form asp-action="Create">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">First Name</label>
+            <input type="text" class="form-control" asp-for="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="LastName" class="form-label">Last Name</label>
+            <input type="text" class="form-control" asp-for="LastName"/>
+            <span asp-validation-for="LastName" class="text-danger"></span>
+
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="BirthDay" class="form-label">Date of Birth</label>
+            <input type="text" class="form-control" asp-for="BirthDay"/>
+            <span asp-validation-for="BirthDay" class="text-danger"></span>
+
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CityId" class="form-label">City</label>
+            <select class="form-control" asp-for="CityId">
+                <option value="1">Alabama</option>
+                <option value="2">Alaska</option>
+                <option value="3">Arizona</option>
+                <option value="4">Arkansas</option>
+                <option value="5">Californa</option>
+                <option value="6">Colorado</option>
+                <option value="7">Connecticut</option>
+                <option value="8">Delaware</option>
+                <option value="9">Distric of Columbia</option>
+                <option value="10">Florida</option>
+                <option value="11">Georgia</option>
+                <option value="12">Hawaii</option>
+                <option value="13">Idaho</option>
+                <option value="14">Illinois</option>
+                <option value="15">Indiana</option>
+                <option value="16">Iowa</option>
+                <option value="17">Kansas</option>
+            </select>
+            <span asp-validation-for="CityId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email Address</label>
+            <input type="email" class="form-control" asp-for="Email"/>
+            <span asp-validation-for="Email" class="text-danger"></span>
+
+        </div>
+
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" asp-for="AllowNewsLetter"/>
+            <label class="form-check-label" asp-for="AllowNewsLetter">Subscribe to our newsletter?</label>
+            <span asp-validation-for="AllowNewsLetter" class="text-danger"></span>
+
+        </div>
+
+        <button type="submit" class="btn btn-primary mb-3">Submit</button>
+
+    </form>
+
+</div>
