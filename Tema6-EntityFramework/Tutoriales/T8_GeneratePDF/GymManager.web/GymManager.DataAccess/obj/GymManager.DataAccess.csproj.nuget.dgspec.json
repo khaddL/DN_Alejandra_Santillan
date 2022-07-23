@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.Core\\GymManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectName": "GymManager.Core",
+        "projectPath": "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.Core\\GymManager.Core.csproj",
+        "packagesPath": "C:\\Users\\aly-s\\.nuget\\packages\\",
+        "outputPath": "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aly-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
+        "projectName": "GymManager.DataAccess",
+        "projectPath": "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\aly-s\\.nuget\\packages\\",
+        "outputPath": "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aly-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.Core\\GymManager.Core.csproj": {
+                "projectPath": "D:\\Mis Proyectos\\Punto Singular\\ASP Entity Framework\\Tutoriales\\T8_GeneratePDF\\GymManager.web\\GymManager.Core\\GymManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
