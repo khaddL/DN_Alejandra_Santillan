@@ -1,0 +1,10 @@
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\bin\Debug\GymManager.Report.Design.exe.config
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\bin\Debug\GymManager.Report.Design.exe
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\bin\Debug\GymManager.Report.Design.pdb
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.csproj.AssemblyReference.cache
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.csproj.SuggestedBindingRedirects.cache
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.Properties.Resources.resources
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.csproj.GenerateResource.cache
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.exe
+D:\Mis Proyectos\Punto Singular\ASP Entity Framework\Tutoriales\T9_9 RDLC\GymManager.web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.pdb
